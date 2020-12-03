@@ -1,8 +1,6 @@
 dependencies:
   - numpy
   - matplotlib
-  - traceback
-  - fractions
   - ipywidgets
   - IPython
   - ipympl
