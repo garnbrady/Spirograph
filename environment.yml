@@ -4,3 +4,4 @@ dependencies:
   - ipywidgets
   - IPython
   - ipympl
+  - voila
